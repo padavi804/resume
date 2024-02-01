@@ -1,0 +1,51 @@
+
+.container {
+ margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+	padding: 10px 15px 10px 15px;
+
+	border-radius: 15px;
+	background-color: #C4CECD;
+
+	text-align: left; 
+}
+
+h1 {
+  color: black;
+  font-size: 24px;
+  font-family: Arial, Helvetica, Sans-serif;}
+
+.header{
+   border: 1px solid black;
+  border-radius: 15px;
+  padding-left: 10px;
+  text-align: center;
+  background-color: white;
+}
+
+.contact{
+  line-height: .5;
+  padding-left: 10px
+}
+.work{
+  padding-left:10px;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float: left;
+}
+
+h4{
+  line-height: .75;
+}
+
+h2, h3, h4, h5{
+  color: black;
+  font-family: Arial, Helvetica, Sans-serif;
+}
